@@ -1,0 +1,47 @@
+.header {
+  transition: 0.5s ease;
+  background-color: #343a40 !important;
+}
+
+/* .istop {
+    transition: 0.5s ease;
+    background-color: #343a40 !important;
+  } */
+
+.container {
+  width: 71%;
+  margin: auto;
+}
+
+.ul {
+  height: 100%;
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.container a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.5);
+  display: block;
+  padding: 1em;
+}
+
+.container a:hover {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.icon {
+  left: 95%;
+  top: 3px;
+}
+
+.drawerul {
+  width: 50vw;
+}
+
+.drawerul li {
+  text-align: center;
+}

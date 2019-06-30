@@ -1,0 +1,27 @@
+.container {
+  width: 71%;
+  margin: 30px auto;
+}
+
+.container h6 {
+  color: #6c757d;
+  font-weight: 300;
+}
+
+.profilea:hover {
+  text-decoration: underline;
+}
+
+.profileactions {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.profileactions button {
+  background-color: #f8f9fa;
+}
+
+.profileactions svg {
+  margin-right: 0.25rem;
+  color: rgb(52, 58, 64);
+}
